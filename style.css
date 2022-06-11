@@ -20,3 +20,18 @@
     color: #fff;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 8px;
+    color: #fff;
+}
+.cat1{
+    background-color: #fb5b99;
+
+}
+.cat2{
+    background-color: rgb(255, 182, 46);
+}
+.cat3{
+    background-color: aqua;
+}
