@@ -49,9 +49,16 @@
 .card-footer{
     background-color: white;
     border-top: none;
-    position: relative;
-
 }
 .bag-button{
     align-content: ;
+}
+#contact{
+    height: 300px;
+}
+#contact p{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
